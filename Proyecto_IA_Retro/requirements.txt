@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-requests
-faiss-cpu
-sentence-transformers
-watchdog
-ollama
