@@ -10,6 +10,8 @@ Este proyecto puede utilizarse tanto en sistemas Windows como GNU/Linux, varía 
 
 Yo he utilizado para correrlo un equipo portátil no muy moderno (de hace unos 6 años) con procesador Intel i7 de 8ª generación, 32Gb de RAM y disco SSD NVMe. Y con GPU Nvidia MX250 que no me ha servido de nada ya que no es compatible con las librerías utilizadas en el desarrollo. Eso no es problema ya que he preparado el backend para que por defecto tire de GPU y en caso de no disponer de una GPU compatible, tirar solamente de CPU. En mi caso he hecho todas las pruebas utilizando solo la CPU y el resultado ha sido más que aceptable, podéis verlo en el vídeo adjunto.
 
+Ver Vídeo: <a href="https://github.com/asinformatico/IA_local_retro/blob/main/retro-term-ia.mp4">Clic aquí</a>
+
 <h2>Estructura del Proyecto:</h2>
 
 /Proyecto_IA_retro/         # carpeta raiz del proyecto
